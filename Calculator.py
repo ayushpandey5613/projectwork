@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 
+ #This is a python script for GUI calculator#
+
 
 w=tk.Tk()
 
